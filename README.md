@@ -33,3 +33,9 @@ This is a simple Masterdots game that is built using HTML, CSS and JavaScript. I
 This is a simple responsive menu that is built using HTML, CSS. It is a simple static website that allows users to view the menu on different devices.
 
 [Responsive Menu](https://nightmarevco.github.io/module2-solution/) - The website is hosted on GitHub Pages.
+
+### Responsive Navbar
+
+This is a simple responsive navbar that is built using HTML, CSS. It is a simple static website that allows users to view the navbar on different devices.
+
+[Responsive Navbar](https://nightmarevco.github.io/module3-solution/) - The website is hosted on GitHub Pages.
