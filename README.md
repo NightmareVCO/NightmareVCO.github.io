@@ -39,3 +39,17 @@ This is a simple responsive menu that is built using HTML, CSS. It is a simple s
 This is a simple responsive navbar that is built using HTML, CSS. It is a simple static website that allows users to view the navbar on different devices.
 
 [Responsive Navbar](https://nightmarevco.github.io/module3-solution/) - The website is hosted on GitHub Pages.
+
+### First Steeps in JavaScript
+
+This is a simple JavaScript project that is built using HTML, JavaScript. It is a simple static website that allows users to view the JavaScript project printing some text on the console.
+
+[First Steps in JavaScript](https://nightmarevco.github.io/module4-solution/) - The website is hosted on GitHub Pages.
+
+### First Steps in Ajax
+
+This is a simple Ajax project that is built using HTML, CSS, JavaScript and Ajax. It is a simple static website that allows users to view the Ajax project fetching some data from the server in a JSON format on a Restaurant Website.
+
+When clicking special offers, the website will fetch the data from the server and display it on the website.
+
+[First Steps in Ajax](https://nightmarevco.github.io/module5-solution/) - The website is hosted on GitHub Pages.
